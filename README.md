@@ -29,20 +29,23 @@ A simple and clean **React Counter Application** built using functional componen
 ├── Counter.jsx
 ├── counter.css
 └── index.js
-|-
 ```
 
 ---
 ## screenshot
 1.this screenshot is counetr zero
- ![alt text](screenshot/Screenshot_5-12-2025_124050_localhost.jpeg)
+ ![Screenshot_5-12-2025_124050_localhost](https://github.com/user-attachments/assets/f37b86a0-dc5c-442b-a13a-62d200c87818)
+
 
 2.increment counter
-![alt text](screenshot/Screenshot_5-12-2025_124023_localhost.jpeg)
+![Screenshot_5-12-2025_124023_localhost](https://github.com/user-attachments/assets/a46fcf85-8593-4006-9aed-632cb2e2e631)
+
 
 3.decrement counter
-![alt text](screenshot/Screenshot_5-12-2025_124033_localhost.jpeg)
-![alt text](screenshot/Screenshot_5-12-2025_123951_localhost.jpeg)
+![Screenshot_5-12-2025_124033_localhost](https://github.com/user-attachments/assets/30c79e12-70fd-4119-b45c-463c66367352)
+
+![Screenshot_5-12-2025_123951_localhost](https://github.com/user-attachments/assets/6649b438-f800-4490-af5e-325e52f732cc)
+
 
 ## 📦 Installation
 
@@ -126,3 +129,4 @@ This project is free to use and modify.
 ## ❤️ Thank You!
 
 If you want a dark mode version, Tailwind version, or full project zip — just ask!
+
